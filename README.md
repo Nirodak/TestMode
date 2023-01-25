@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u50fif93uitkxkmj?svg=true)](https://ci.appveyor.com/project/Nirodak/testmode)
